@@ -1,0 +1,27 @@
+[SupersonicTheme]
+Name = "Tokyo Night"
+Version = "0.1"
+SupportsDark = true
+SupportsLight = false
+
+[DarkColors]
+PageBackground = "#1a1b26"
+ListHeader = "#1a1b26"
+PageHeader = "#181d25"
+Background = "#1a1b26"
+ScrollBar = "#bb9af7"
+Button = "#24283b"
+Foreground = "#565f89"
+InputBackground = "#24283b"
+Hyperlink = "#f7768e"
+
+[LightColors]
+PageBackground = "#FAFAFA"
+ListHeader = "#E1DFE1"
+PageHeader = "#e1dfe1"
+Background = "#E1DFE1"
+ScrollBar = "#565656"
+Button = "#C8C8C8F0"
+DisabledButton = "#CDCDCDF0"
+Foreground = "#262626"
+Hyperlink = "#3737FB"
